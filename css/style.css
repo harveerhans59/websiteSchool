@@ -957,7 +957,7 @@ label {
 }
 .volunteer-text h1 {
 	font-size: 48px;
-	color: #fff;
+	color: #005595;
 	line-height: 55px;
 	position: relative;
 	padding-bottom: 44px;
@@ -967,7 +967,7 @@ label {
 	margin-top: -65px;
 }
 .volunteer-text h1::before {
-	background: #fff;
+	background: #005595;
 	position: absolute;
 	content: "";
 	height: 5px;
@@ -978,7 +978,7 @@ label {
 }
 .volunteer2-text h1 {
 	font-size: 48px;
-	color: #fff;
+	color: #005595;
 	line-height: 48px;
 	position: relative;
 	padding-bottom: 38px;
@@ -1017,7 +1017,7 @@ label {
 	margin: auto;
 }
 .volunteer-text p {
-	color: #fff;
+	color: #005595;
 	margin-bottom: 0;
 	padding-right: 10%;
 }
