@@ -440,6 +440,7 @@ input.cart-plus-minus-box {
 	font-size: 20px;
 	line-height: 30px;
 }
+
 .volunteer3-text {
 	padding: 0;
 }
@@ -637,6 +638,9 @@ input.cart-plus-minus-box {
 /* small mobile :320px. */
 @media (max-width: 767px) {
 
+	.backgroundLanding{
+		background-image: url(../img/slider/phoneMain.jpg)
+	}
 .donation2-wrapper {
 	padding: 100px 20px 100px;
 }
