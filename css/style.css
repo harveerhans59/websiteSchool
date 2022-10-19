@@ -699,9 +699,9 @@ label {
 	position: relative;
 	padding-bottom: 42px;
 }
-.section-title h1 span{color:#e61937;}
+.section-title h1 span{color:#005595;}
 .section-title h1::before {
-	background: #e61937;
+	background: #005595;
 	position: absolute;
 	content: "";
 	height: 5px;
@@ -727,11 +727,11 @@ label {
 	right: 0;
 }
 .section2-title{}
-.section2-title h1 > span{color:#e61937; font-size:48px;}
+.section2-title h1 > span{color:#005595; font-size:48px;}
 .section2-title > span {
-	font-size: 22px;
+	font-size: 30px;
 	text-transform: capitalize;
-	color: #E61937;
+	color: #005595;
 	margin-bottom: 15px;
 	display: block;
 }
