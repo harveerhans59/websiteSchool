@@ -239,7 +239,7 @@
 	margin-right: 0;
 }
 .slider-content h1 {
-	font-size: 100px;
+	font-size: 60px;
 	line-height: 100px;
 }
 .feature-content p {
@@ -977,11 +977,12 @@ input.cart-plus-minus-box {
 	line-height: 36px;
 }
 .slider-content h1 {
-	font-size: 40px;
+	font-size: 30px;
 	line-height: 44px;
 }
 .slider-content p {
 	padding-right: 0;
+	font-size: 13px;
 }
 .slider-height {
 	min-height: 739px;
