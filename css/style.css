@@ -1265,6 +1265,12 @@ label {
 	font-size: 26px;
 	font-family: 'Vidaloka', serif;
 }
+.footer-text a {
+	margin-bottom: 3px;
+	color: #e61937;
+	font-size: 26px;
+	font-family: 'Vidaloka', serif;
+}
 .footer-text span {
 	font-size: 28px;
 	color: #e61937;
