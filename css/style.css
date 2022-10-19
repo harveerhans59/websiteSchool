@@ -957,7 +957,7 @@ label {
 }
 .volunteer-text h1 {
 	font-size: 48px;
-	color: #005595;
+	color: #fff;
 	line-height: 55px;
 	position: relative;
 	padding-bottom: 44px;
@@ -967,7 +967,7 @@ label {
 	margin-top: -65px;
 }
 .volunteer-text h1::before {
-	background: #005595;
+	background: #fff;
 	position: absolute;
 	content: "";
 	height: 5px;
@@ -1017,7 +1017,7 @@ label {
 	margin: auto;
 }
 .volunteer-text p {
-	color: #005595;
+	color: #fff;
 	margin-bottom: 0;
 	padding-right: 10%;
 }
@@ -1866,7 +1866,7 @@ input.cart-plus-minus-box {
 	margin-bottom: 50px;
 }
 .about-me-content h1::before {
-	background: #e61937;
+	background: #005595;
 	position: absolute;
 	content: "";
 	height: 5px;
