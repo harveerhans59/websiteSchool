@@ -240,7 +240,7 @@
 }
 .slider-content h1 {
 	font-size: 60px;
-	line-height: 100px;
+	line-height: 60px;
 }
 .feature-content p {
 	padding: 0 15px;
@@ -547,8 +547,8 @@ input.cart-plus-minus-box {
 	margin-right: 0;
 }
 .slider-content h1 {
-	font-size: 70px;
-	line-height: 75px;
+	font-size: 50px;
+	line-height: 60px;
 }
 .slider-content p {
 	padding-right: 53px;
@@ -1142,7 +1142,7 @@ input.cart-plus-minus-box {
 	margin-bottom: 15px;
 }
 .we-do-area.we-do-circle.pt-110.pb-200 {
-	padding-bottom: 120px;
+	padding-bottom: 50px;
 }
 
 
