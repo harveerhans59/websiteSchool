@@ -2531,7 +2531,7 @@ input.cart-plus-minus-box {
 	padding: 17px 40px;
 	transition:.3s;
 }
-.political-button a.btn:hover{background:#e61937;}
+.political-button a.btn:hover{background:#FFCE00;}
 .political-resume-button{}
 .political-resume-button a.btn {
 	color: #fff;
@@ -2539,7 +2539,7 @@ input.cart-plus-minus-box {
 	border: 2px solid #fff;
 	transition: .3s;
 }
-.political-resume-button a.btn:hover{border-color:#e61937;background:#e61937;}
+.political-resume-button a.btn:hover{border-color:#FFCE00;background:#FFCE00;}
 
 /* 25. events-area */
 .events-area{}
